@@ -172,3 +172,18 @@ class LinkedList:
             itr = itr.next
 
         print(llstr)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
